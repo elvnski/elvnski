@@ -1,5 +1,22 @@
 # 💫 About Me:
-I’m currently working on<br>Developing scalable and high-performance enterprise applications using Java Spring Boot and implementing cloud infrastructure solutions on AWS, Azure, and Google Cloud Platform.<br><br>I’m looking to collaborate on<br>Innovative projects that require expertise in DevOps, cloud infrastructure, or full-stack web development, particularly those that involve complex systems engineering and data analytics.<br><br>I’m looking for help with<br>Exploring new ways to optimize cloud infrastructure and improve the scalability of enterprise applications, especially with emerging technologies like Rust and advanced DevOps tools.<br><br>I’m currently learning<br>Advanced features of Kubernetes, Rust programming for system-level development, and the latest trends in cloud-native architecture.<br><br>Ask me about<br>Cloud infrastructure management, enterprise application development with Java Spring Boot, or how to leverage data analytics in DevOps practices.<br><br>Fun fact<br>I have a background in Biostatistics, which uniquely equips me to approach problem-solving in tech with a data-driven mindset.
+## I’m currently working on
+Developing scalable and high-performance enterprise applications using Java Spring Boot and implementing cloud infrastructure solutions on AWS, Azure, and Google Cloud Platform.
+
+## I’m looking to collaborate on
+Innovative projects that require expertise in DevOps, cloud infrastructure, or full-stack web development, particularly those that involve complex systems engineering and data analytics.
+
+## I’m looking for help with
+Exploring new ways to optimize cloud infrastructure and improve the scalability of enterprise applications, especially with emerging technologies like Rust and advanced DevOps tools.
+
+## I’m currently learning
+Advanced features of Kubernetes, Rust programming for system-level development, and the latest trends in cloud-native architecture.
+
+## Ask me about
+Cloud infrastructure management, enterprise application development with Java Spring Boot, or how to leverage data analytics in DevOps practices.
+
+## Fun fact
+I have a background in Biostatistics, which uniquely equips me to approach problem-solving in tech with a data-driven mindset.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvinotieno) 
