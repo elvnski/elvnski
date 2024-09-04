@@ -1,4 +1,4 @@
-# 💫 About Me:
+hi# 💫 About Me:
 ## I’m currently working on
 Developing scalable and high-performance enterprise applications using Java Spring Boot and implementing cloud infrastructure solutions on AWS, Azure, and Google Cloud Platform.
 
@@ -34,7 +34,5 @@ I have a background in Biostatistics, which uniquely equips me to approach probl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elvnski&theme=dark&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
+### Food for Thought 💭 🍃
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
