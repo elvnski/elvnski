@@ -1,8 +1,8 @@
 # 🚀 About Me
-## I’m currently working on
+## I’m currently working on...
 Developing scalable and high-performance enterprise applications using Java Spring Boot and implementing cloud infrastructure solutions on AWS, Azure, and Google Cloud Platform.
 
-## I’m looking to collaborate on
+## I’m looking to collaborate on...
 Innovative projects that require expertise in DevOps, cloud infrastructure, or full-stack web development, particularly those that involve complex systems engineering and data analytics.
 
 ## I’m looking for help with
