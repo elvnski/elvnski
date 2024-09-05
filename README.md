@@ -5,7 +5,7 @@ Developing scalable and high-performance enterprise applications using Java Spri
 ## I’m looking to collaborate on...
 Innovative projects that require expertise in DevOps, cloud infrastructure, or full-stack web development, particularly those that involve complex systems engineering and data analytics.
 
-## I’m looking for help with..'
+## I’m looking for help with...
 Exploring new ways to optimize cloud infrastructure and improve the scalability of enterprise applications, especially with emerging technologies like Rust and advanced DevOps tools.
 
 ## I’m currently learning...
@@ -14,7 +14,7 @@ Advanced features of Kubernetes, Rust programming for system-level development, 
 ## Ask me about...
 Cloud infrastructure management, enterprise application development with Java Spring Boot, or how to leverage data analytics in DevOps best practice.
 
-## Fun fact
+## Fun fact🎈 
 I have a background in Biostatistics, which uniquely equips me to approach problem-solving in tech with a data-driven mindset.
 
 
