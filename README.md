@@ -1,4 +1,9 @@
 # 🚀 About Me
+
+I am a Senior DevOps Engineer with expertise in Java, Java Spring Boot, PHP, and JavaScript, specializing in enterprise applications and web development. My skills extend to cloud platforms and infrastructure management, including AWS, Microsoft Azure, Google Cloud, Terraform, and AWS CloudFormation. 
+
+With a BSc in Biostatistics and a strong foundation in data analytics, I have hands-on experience in big data technologies like Apache Spark, Hadoop, and Hive, allowing me to manage and analyze large datasets. I am proficient in multiple programming languages, including PHP, Laravel, Rust, JavaScript, Node, Vue, and React, with a focus on continuous improvement, problem-solving, and teamwork.
+
 ## I’m currently working on...
 Developing scalable and high-performance enterprise applications using Java Spring Boot and implementing cloud infrastructure solutions on AWS, Azure, and Google Cloud Platform.
 
