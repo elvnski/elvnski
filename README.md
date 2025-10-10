@@ -1,42 +1,61 @@
-# 🚀 About Me
+# 🌟 About Me
 
-I am a Senior DevOps Engineer with expertise in Java, Java Spring Boot, PHP, and JavaScript, specializing in enterprise applications and web development. My skills extend to cloud platforms and infrastructure management, including AWS, Microsoft Azure, Google Cloud, Terraform, and AWS CloudFormation. 
+I'm a **Lead Software Engineer** with a knack for crafting scalable, high-performance enterprise solutions. Armed with a **BSc in Biostatistics**, I bring a data-driven edge to software development, blending analytical rigor with technical expertise to solve complex challenges. My passion lies in building robust systems that not only perform but also unlock powerful insights through data.
 
-With a BSc in Biostatistics and a strong foundation in data analytics, I have hands-on experience in big data technologies like Apache Spark, Hadoop, and Hive, allowing me to manage and analyze large datasets. I am proficient in multiple programming languages, including PHP, Laravel, Rust, JavaScript, Node, Vue, and React, with a focus on continuous improvement, problem-solving, and teamwork.
+I specialize in **Java**, **Spring Boot**, **PHP**, and **JavaScript**, with deep expertise in cloud platforms like **Oracle**, **AWS**, and **Google Cloud Platform (GCP)**. I’m fluent in modern DevOps tools such as **Docker**, **Kubernetes**, and **Terraform**, which I use to streamline deployment pipelines and boost operational efficiency. Collaboration and innovation are at the heart of my work, ensuring solutions that are functional, scalable, and secure.
 
-# 💻 DevOps Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Java EE](https://img.shields.io/badge/javaee-%23F7DF1E.svg?style=plastic&logo=javaee&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![React.js](https://img.shields.io/badge/reactjs-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=plastic&logo=greensock&logoColor=white) ![Inertia](https://img.shields.io/badge/inertia-%237258C6.svg?style=plastic&logo=inertiajs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+# 🛠️ Tech Stack
+## Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=plastic&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-# ☁️ Cloud Engineering Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![AWS CloudFormation](https://img.shields.io/badge/aws%20cloudformation-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white) ![Azure Resource Manager](https://img.shields.io/badge/azure%20resource%20manager-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/amazon%20rds-%230072C6.svg?style=plastic&logo=amazonrds&logoColor=white) ![Azure SQL Database](https://img.shields.io/badge/azure%20sql%20database-%230072C6.svg?style=plastic&logo=microsoftsqlserver&logoColor=white) ![Google Cloud SQL](https://img.shields.io/badge/google%20cloud%20sql-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+## Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Oracle Cloud](https://img.shields.io/badge/oracle%20cloud-%23F80000.svg?style=plastic&logo=oracle&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 
-# 📊 Data Analytics Stack:
-![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=plastic&logo=apachespark&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/apache%20hadoop-%236DA55F.svg?style=plastic&logo=apachehadoop&logoColor=white) ![Apache Hive](https://img.shields.io/badge/apache%20hive-%23FDEE21.svg?style=plastic&logo=apachehive&logoColor=black) ![Amazon Redshift](https://img.shields.io/badge/amazon%20redshift-%23232F3E.svg?style=plastic&logo=amazonredshift&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/excel-%233F4F75.svg?style=plastic&logo=microsoftexcel&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![SPSS](https://img.shields.io/badge/spss-%2345A4F9.svg?style=plastic&logo=spss&logoColor=white) ![GeoDa](https://img.shields.io/badge/geoda-%23001F3F.svg?style=plastic&logo=geoda&logoColor=white) ![R Shiny](https://img.shields.io/badge/r%20shiny-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+## Data & Analytics
+![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=plastic&logo=apachespark&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
+![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2300C4FF.svg?style=plastic&logo=snowflake&logoColor=white)
 
+# 🚀 What I’m Working On
+Designing and deploying cutting-edge enterprise applications with **Java Spring Boot** and orchestrating cloud infrastructure on **AWS**, **Oracle**, and **GCP** to deliver seamless, scalable solutions.
 
-## I’m currently working on...
-Developing scalable and high-performance enterprise applications using Java Spring Boot and implementing cloud infrastructure solutions on AWS, Azure, and Google Cloud Platform.
+# 🤝 Let’s Collaborate On
+Innovative projects that push the boundaries of **cloud-native architecture**, **full-stack development**, or **data-driven systems**. I’m excited about opportunities to tackle complex engineering challenges and create impactful solutions.
 
-## I’m looking to collaborate on...
-Innovative projects that require expertise in DevOps, cloud infrastructure, or full-stack web development, particularly those that involve complex systems engineering and data analytics.
+# 🔍 I’m Exploring
+- Advanced **Kubernetes** orchestration techniques for microservices.
+- **Rust** for high-performance, system-level programming.
+- Emerging trends in **cloud-native** and **serverless** architectures.
 
-## I’m looking for help with...
-Exploring new ways to optimize cloud infrastructure and improve the scalability of enterprise applications, especially with emerging technologies like Rust and advanced DevOps tools.
+# 💡 Ask Me About
+- Building scalable **cloud infrastructure** with Terraform and Kubernetes.
+- Developing enterprise-grade applications with **Java Spring Boot**.
+- Leveraging **biostatistics** for data-driven decision-making in tech.
 
-## I’m currently learning...
-Advanced features of Kubernetes, Rust programming for system-level development, and the latest trends in cloud-native architecture.
+# 🎉 Fun Fact
+My background in **Biostatistics** gives me a unique lens for problem-solving, blending analytical precision with engineering creativity to deliver solutions that are as insightful as they are robust.
 
-## Ask me about...
-Cloud infrastructure management, enterprise application development with Java Spring Boot, or how to leverage data analytics in DevOps best practice.
+# 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=elvnski&theme=radical&hide_border=false)
 
-## Fun fact🎈 
-I have a background in Biostatistics, which uniquely equips me to approach problem-solving in tech with a data-driven mindset.
+# 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvinotieno)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=elvnski&theme=dark&hide_border=false)<br/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvinotieno) 
-
-### Food for Thought 💭 🍃
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+# 💭 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
