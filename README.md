@@ -48,12 +48,6 @@ Innovative projects that push the boundaries of **cloud-native architecture**, *
 - Developing enterprise-grade applications with **Java Spring Boot**.
 - Leveraging **biostatistics** for data-driven decision-making in tech.
 
-# 🎉 Fun Fact
-My background in **Biostatistics** gives me a unique lens for problem-solving, blending analytical precision with engineering creativity to deliver solutions that are as insightful as they are robust.
-
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=elvnski&theme=radical&hide_border=false)
-
 # 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvinotieno)
 
