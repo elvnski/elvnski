@@ -1,10 +1,10 @@
-# 🌟 About Me
+# About Me
 
-I'm a **Lead Software Engineer** with a knack for crafting scalable, high-performance enterprise solutions. Armed with a **BSc in Biostatistics**, I bring a data-driven edge to software development, blending analytical rigor with technical expertise to solve complex challenges. My passion lies in building robust systems that not only perform but also unlock powerful insights through data.
+ Information Systems Engineer with a Biostatistics undergraduate foundation and extensive experience designing, building, and leading scalable enterprise systems that transform raw information into strategic insights. I combine rigorous statistical analysis and predictive modeling with full-stack and microservices development to deliver robust analytical platforms that drive evidence-based decision-making across industries.
 
-I specialize in **Java**, **Spring Boot**, **PHP**, and **JavaScript**, with deep expertise in cloud platforms like **Oracle**, **AWS**, and **Google Cloud Platform (GCP)**. I’m fluent in modern DevOps tools such as **Docker**, **Kubernetes**, and **Terraform**, which I use to streamline deployment pipelines and boost operational efficiency. Collaboration and innovation are at the heart of my work, ensuring solutions that are functional, scalable, and secure.
+Passionate about cross-functional collaboration and innovation at the intersection of statistics, software engineering, and information systems architecture.
 
-# 🛠️ Tech Stack
+# Tech Stack
 ## Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white) 
@@ -32,17 +32,6 @@ I specialize in **Java**, **Spring Boot**, **PHP**, and **JavaScript**, with dee
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2300C4FF.svg?style=plastic&logo=snowflake&logoColor=white)
 
-# 🚀 What I’m Working On
-Designing and deploying cutting-edge enterprise applications with **Java Spring Boot** and orchestrating cloud infrastructure on **AWS**, **Oracle**, and **GCP** to deliver seamless, scalable solutions.
-
-# 🤝 Let’s Collaborate On
-Innovative projects that push the boundaries of **cloud-native architecture**, **full-stack development**, or **data-driven systems**. I’m excited about opportunities to tackle complex engineering challenges and create impactful solutions.
-
-# 🔍 I’m Exploring
-- Advanced **Kubernetes** orchestration techniques for microservices.
-- **Rust** for high-performance, system-level programming.
-- Emerging trends in **cloud-native** and **serverless** architectures.
-
 # 💡 Ask Me About
 - Building scalable **cloud infrastructure** with Terraform and Kubernetes.
 - Developing enterprise-grade applications with **Java Spring Boot**.
@@ -51,5 +40,3 @@ Innovative projects that push the boundaries of **cloud-native architecture**, *
 # 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvinotieno)
 
-# 💭 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
