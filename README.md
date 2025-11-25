@@ -32,11 +32,6 @@ Passionate about cross-functional collaboration and innovation at the intersecti
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2300C4FF.svg?style=plastic&logo=snowflake&logoColor=white)
 
-# 💡 Ask Me About
-- Building scalable **cloud infrastructure** with Terraform and Kubernetes.
-- Developing enterprise-grade applications with **Java Spring Boot**.
-- Leveraging **biostatistics** for data-driven decision-making in tech.
-
 # 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elvinotieno)
 
